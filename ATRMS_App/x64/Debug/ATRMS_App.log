@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ATRMS_App.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Application.cpp
+D:\VisualStudioProjects\DemoProjects\ATRMS_App\ATRMS_App\LoginForm.h(270,21): warning C4101: 'e': unreferenced local variable
+D:\VisualStudioProjects\DemoProjects\ATRMS_App\ATRMS_App\Dashboard.h(2088,21): warning C4101: 'e': unreferenced local variable
+  Dashboard.cpp
+D:\VisualStudioProjects\DemoProjects\ATRMS_App\ATRMS_App\Dashboard.h(2088,21): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  Application.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ATRMS_App.vcxproj -> D:\VisualStudioProjects\DemoProjects\ATRMS_App\x64\Debug\ATRMSApp.exe

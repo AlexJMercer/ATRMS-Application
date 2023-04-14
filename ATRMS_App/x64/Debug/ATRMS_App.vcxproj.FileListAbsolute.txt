@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\DemoProjects\ATRMS_App\ATRMS_App\x64\Debug\ATRMS_App.vcxproj.AssemblyReference.cache
+D:\VisualStudioProjects\DemoProjects\ATRMS_App\ATRMS_App\x64\Debug\ATRMS_App.vcxproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProjects\DemoProjects\ATRMS_App\ATRMS_App\x64\Debug\ATRMSApp.LoginForm.resources
+D:\VisualStudioProjects\DemoProjects\ATRMS_App\ATRMS_App\x64\Debug\ATRMS_App.vcxproj.GenerateResource.cache
+D:\VisualStudioProjects\DemoProjects\ATRMS_App\ATRMS_App\x64\Debug\ATRMSApp.Dashboard.resources
